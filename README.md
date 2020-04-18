@@ -4,7 +4,7 @@ This tool is designed to analysis color distribution of image based on k-means c
 # Example
 ![Origin Image](https://raw.githubusercontent.com/Doradx/pyImageColorAnalysisTool/master/res/%E9%A2%9C%E8%89%B2%E6%B5%8B%E8%AF%95.jpg)
 
-![Result](https://github.com/Doradx/pyImageColorAnalysisTool/blob/master/res/%E9%A2%9C%E8%89%B2%E6%B5%8B%E8%AF%95-Result.jpg?raw=true)
+![Result](https://raw.githubusercontent.com/Doradx/pyImageColorAnalysisTool/master/res/%E9%A2%9C%E8%89%B2%E6%B5%8B%E8%AF%95-Result.jpg)
 
 ```text
 主要颜色及占比:
