@@ -6,9 +6,9 @@ This tool is designed to analysis color distribution of image based on k-means c
 ```text
 git clone https://github.com/Doradx/pyImageColorAnalysisTool.git
 ```
-## Install requirement
+## Install requirements
 ```text
-pip install requirements
+pip install -r requirements
 ```
 ### Run
 ```text
