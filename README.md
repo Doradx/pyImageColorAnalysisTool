@@ -1,6 +1,20 @@
 # pyImageColorAnalysisTool
 This tool is designed to analysis color distribution of image based on k-means cluster.
 
+# Usage
+## Download
+```text
+git clone https://github.com/Doradx/pyImageColorAnalysisTool.git
+```
+## Install requirement
+```text
+pip install requirements
+```
+### Run
+```text
+python main.py
+```
+
 # Example
 ![Origin Image](https://raw.githubusercontent.com/Doradx/pyImageColorAnalysisTool/master/res/%E9%A2%9C%E8%89%B2%E6%B5%8B%E8%AF%95.jpg)
 
